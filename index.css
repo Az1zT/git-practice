@@ -1,4 +1,5 @@
 div.cities {
     display: grid;
-    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-columns: 34.3% 33.3% 33.3%;
 }
+
